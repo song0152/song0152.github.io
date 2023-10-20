@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif; font-size: 18px; background-color: rgb(99, 112, 107);
+}
+
+header, footer {
+    background-color: rgb(16, 189, 39);
+}
+.site-title {
+    color: rgb(132, 85, 130);
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px rgb(90, 36, 36);
+}
+
+ul li:nth-child(odd){
+    background-color: rgb(179, 204, 111);
+}
+
+ul {
+    list-style: square;
+}
+
+a:link {
+    text-decoration: none; background-color: rgb(166, 183, 197); border: 2;
+}
+
+a:link:hover {
+    background-color: rgb(85, 70, 100);
+}
